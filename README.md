@@ -5,7 +5,7 @@ A Logistic Regression model is used, with a focus on handling highly imbalanced 
 >> Key Highlights
 1. Federated Learning with Federated Averaging (FedAvg)
 2. Imbalanced data handling
-3. Distributed client-side training
+3. Distributed client-side training 
 4. Model evaluation using precision, recall, F1-score
 
 >> Tech Stack
